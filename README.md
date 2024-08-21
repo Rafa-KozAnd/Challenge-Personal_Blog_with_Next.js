@@ -1,3 +1,12 @@
+<p align="center">
+  <img src="http://img.shields.io/static/v1?label=STATUS&message=Concluded&color=blue&style=flat"/>
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Rafa-KozAnd/Challenge-Personal_Blog_with_Next.js">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/top/Rafa-KozAnd/Challenge-Personal_Blog_with_Next.js">
+  <img alt="GitHub repo file count" src="https://img.shields.io/github/directory-file-count/Rafa-KozAnd/Challenge-Personal_Blog_with_Next.js">
+  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Rafa-KozAnd/Challenge-Personal_Blog_with_Next.js">
+  <img alt="GitHub language count" src="https://img.shields.io/github/license/Rafa-KozAnd/Challenge-Personal_Blog_with_Next.js">
+</p>
+
 ![Netlify Next.js Blog Template designed by Bejamas](github-banner.svg)
 
 [![Deploy to Netlify Button](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/netlify-templates/nextjs-blog-theme)
